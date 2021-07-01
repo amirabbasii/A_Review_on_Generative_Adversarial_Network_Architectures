@@ -1,0 +1,1 @@
+# A_Review_on_Generative_Adversarial_Network_Architectures
